@@ -19,18 +19,31 @@ EduSecure is an AI-powered monitoring system designed to automate attendance rec
 
 ## Usage
 
-### 1. Register Students
+### Option 1: Using the Menu Interface (Windows)
+
+For Windows users, you can use the interactive menu system:
+
+Run `menu.bat` to launch the EduSecure menu, which provides options to:
+- Run the main monitoring system
+- Register students
+- Generate reports
+- Test cheating detection
+- Install dependencies
+
+### Option 2: Command Line
+
+#### 1. Register Students
 
 Run `python register_students.py` to register students' faces.
 
-### 2. Run the Main System
+#### 2. Run the Main System
 
 Run `python main.py` to start the monitoring system.
 
 - Press 'q' to quit.
 - The system will automatically mark attendance and detect gaze deviations.
 
-### 3. Generate Reports
+#### 3. Generate Reports
 
 Run `python report.py` to generate reports.
 
