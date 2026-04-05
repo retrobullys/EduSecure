@@ -1,0 +1,7 @@
+EduSecure Summary Report
+Generated on: 2026-04-06 01:56:05
+
+Total students with attendance: 1
+
+Incidents per student:
+Student ID 1: 52 incidents
