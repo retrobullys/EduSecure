@@ -15,7 +15,7 @@ git commit -m "Initial commit: EduSecure AI-powered exam monitoring system"
 echo.
 echo Now, create a new repository on GitHub.com with the following details:
 echo Repository name: EduSecure
-echo Description: EduSecure: AI-Powered Exam Monitoring System - An intelligent surveillance solution that automates attendance tracking and maintains academic integrity during examinations using facial recognition and real-time gaze detection. Features automated alerts, video clip recording, and comprehensive reporting. *Key Technologies: Python, InsightFace, OpenCV, SQLite*
+echo Description: AI-powered exam monitoring system using facial recognition and gaze detection for automated attendance and academic integrity. Features real-time alerts, video recording, and reporting. Built with Python, InsightFace, OpenCV, SQLite.
 echo.
 echo After creating the repository, run the following commands (replace YOUR_USERNAME with your GitHub username):
 echo git remote add origin https://github.com/YOUR_USERNAME/EduSecure.git
